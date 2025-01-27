@@ -51,7 +51,7 @@ body {
 }
 
 .links {
-  width: 620px;
+  width: 320px;
   margin-bottom: 20px;
 }
 
@@ -91,7 +91,7 @@ body {
   padding: 0px 0px 10px;
   gap: 30px;
   border-bottom: 1px solid #dedede;
-  width: 620px;
+  width: 320px;
 }
 
 .links__link:last-child {
@@ -106,7 +106,7 @@ body {
 
 .links__title {
   margin: 0;
-  min-width: 6200px;
+  min-width: 320px;
 }
 
 footer {
@@ -120,7 +120,7 @@ footer {
   justify-content: center;
   align-items: center;
   padding: 10px;
-  width: 620px;
+  width: 320px;
   background: #ffffff;
   border-radius: 10px;
 
