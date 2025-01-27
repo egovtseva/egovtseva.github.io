@@ -10,12 +10,12 @@ body {
 
 .header {
   box-sizing: border-box;
-  margin: 80px 0 40px 0;
+  margin: 40px 0 20px 0;
   display: flex;
 
-  width: 620px;
-  column-gap: 80px;
-  row-gap: 40px;
+  width: 320px;
+  column-gap: 20px;
+  row-gap: 10px;
   border-radius: 20px;
   padding: 20px;
   background-color: #ffffff;
@@ -29,14 +29,14 @@ body {
 
 .header__avatar {
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
 }
 
 .header__title {
   margin: 0;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 22px;
   line-height: 1.2;
   font-family: "Helvetica Neue";
   align-items: center;
@@ -45,7 +45,7 @@ body {
 .header__subtitle {
   color: #7d7d7f;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 14px;
   line-height: 1.4;
   margin: 0;
 }
@@ -91,7 +91,7 @@ body {
   padding: 0px 0px 10px;
   gap: 30px;
   border-bottom: 1px solid #dedede;
-  width: 320px;
+  width: 280px;
 }
 
 .links__link:last-child {
@@ -106,7 +106,7 @@ body {
 
 .links__title {
   margin: 0;
-  min-width: 320px;
+  min-width: 100px;
 }
 
 footer {
